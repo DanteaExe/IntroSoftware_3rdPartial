@@ -1,6 +1,9 @@
 ﻿using static System.Console;
 
 string? option;
+int number;
+int start;
+int finish;
 
 do
 {
@@ -12,21 +15,30 @@ do
     {
         case "1":
             Clear();
-            WriteLine("Write a number to know if it is prime or not:");
-            string? strnumber = ReadLine();
-            int number = int.Parse(strnumber!);
+            do
+            {
+                WriteLine("Write a number to know if it is prime or not, has to be possitive:");
+                string? strnumber = ReadLine();
+                number = int.Parse(strnumber!);
+                Clear();
+            }while(number <= 0);
+
             WriteLine(IsPrime(number));
             break;
 
         case "2":
             Clear();
-            WriteLine("Write a number to start counting:");
-            string? strnumber1 = ReadLine();
-            int start = int.Parse(strnumber1!);
+            do
+            {
+                WriteLine("Write a number to start counting,both have to be possitive:");
+                string? strnumber1 = ReadLine();
+                start = int.Parse(strnumber1!);
 
-            WriteLine("Write a number to finish the count:");
-            string? strnumber2 = ReadLine();
-            int finish = int.Parse(strnumber2!);
+                WriteLine("Write a number to finish the count,both have to be positive:");
+                string? strnumber2 = ReadLine();
+                finish = int.Parse(strnumber2!);
+                Clear();
+            }while(start <= 0 || finish <= 0);
 
             PrintInRange(start, finish);
             break;

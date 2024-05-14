@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PrimeNumber")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a7c71abcaf962d93263738299c87f0881e60089c")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2c2df231fd292bc774e00596d35c63a7f4e885ae")]
 [assembly: System.Reflection.AssemblyProductAttribute("PrimeNumber")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PrimeNumber")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
