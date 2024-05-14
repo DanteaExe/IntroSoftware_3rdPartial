@@ -1,0 +1,15 @@
+/Users/dantealejo/Documents/GitHub/IntroSoftware_3rdPrtial/PrimeNumber/bin/Debug/net8.0/PrimeNumber
+/Users/dantealejo/Documents/GitHub/IntroSoftware_3rdPrtial/PrimeNumber/bin/Debug/net8.0/PrimeNumber.deps.json
+/Users/dantealejo/Documents/GitHub/IntroSoftware_3rdPrtial/PrimeNumber/bin/Debug/net8.0/PrimeNumber.runtimeconfig.json
+/Users/dantealejo/Documents/GitHub/IntroSoftware_3rdPrtial/PrimeNumber/bin/Debug/net8.0/PrimeNumber.dll
+/Users/dantealejo/Documents/GitHub/IntroSoftware_3rdPrtial/PrimeNumber/bin/Debug/net8.0/PrimeNumber.pdb
+/Users/dantealejo/Documents/GitHub/IntroSoftware_3rdPrtial/PrimeNumber/obj/Debug/net8.0/PrimeNumber.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dantealejo/Documents/GitHub/IntroSoftware_3rdPrtial/PrimeNumber/obj/Debug/net8.0/PrimeNumber.AssemblyInfoInputs.cache
+/Users/dantealejo/Documents/GitHub/IntroSoftware_3rdPrtial/PrimeNumber/obj/Debug/net8.0/PrimeNumber.AssemblyInfo.cs
+/Users/dantealejo/Documents/GitHub/IntroSoftware_3rdPrtial/PrimeNumber/obj/Debug/net8.0/PrimeNumber.csproj.CoreCompileInputs.cache
+/Users/dantealejo/Documents/GitHub/IntroSoftware_3rdPrtial/PrimeNumber/obj/Debug/net8.0/PrimeNumber.sourcelink.json
+/Users/dantealejo/Documents/GitHub/IntroSoftware_3rdPrtial/PrimeNumber/obj/Debug/net8.0/PrimeNumber.dll
+/Users/dantealejo/Documents/GitHub/IntroSoftware_3rdPrtial/PrimeNumber/obj/Debug/net8.0/refint/PrimeNumber.dll
+/Users/dantealejo/Documents/GitHub/IntroSoftware_3rdPrtial/PrimeNumber/obj/Debug/net8.0/PrimeNumber.pdb
+/Users/dantealejo/Documents/GitHub/IntroSoftware_3rdPrtial/PrimeNumber/obj/Debug/net8.0/PrimeNumber.genruntimeconfig.cache
+/Users/dantealejo/Documents/GitHub/IntroSoftware_3rdPrtial/PrimeNumber/obj/Debug/net8.0/ref/PrimeNumber.dll
