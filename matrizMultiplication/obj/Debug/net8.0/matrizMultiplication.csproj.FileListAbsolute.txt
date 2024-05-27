@@ -1,0 +1,15 @@
+/Users/dantealejo/Documents/GitHub/IntroSoftware_3rdPrtial/matrizMultiplication/bin/Debug/net8.0/matrizMultiplication
+/Users/dantealejo/Documents/GitHub/IntroSoftware_3rdPrtial/matrizMultiplication/bin/Debug/net8.0/matrizMultiplication.deps.json
+/Users/dantealejo/Documents/GitHub/IntroSoftware_3rdPrtial/matrizMultiplication/bin/Debug/net8.0/matrizMultiplication.runtimeconfig.json
+/Users/dantealejo/Documents/GitHub/IntroSoftware_3rdPrtial/matrizMultiplication/bin/Debug/net8.0/matrizMultiplication.dll
+/Users/dantealejo/Documents/GitHub/IntroSoftware_3rdPrtial/matrizMultiplication/bin/Debug/net8.0/matrizMultiplication.pdb
+/Users/dantealejo/Documents/GitHub/IntroSoftware_3rdPrtial/matrizMultiplication/obj/Debug/net8.0/matrizMultiplication.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dantealejo/Documents/GitHub/IntroSoftware_3rdPrtial/matrizMultiplication/obj/Debug/net8.0/matrizMultiplication.AssemblyInfoInputs.cache
+/Users/dantealejo/Documents/GitHub/IntroSoftware_3rdPrtial/matrizMultiplication/obj/Debug/net8.0/matrizMultiplication.AssemblyInfo.cs
+/Users/dantealejo/Documents/GitHub/IntroSoftware_3rdPrtial/matrizMultiplication/obj/Debug/net8.0/matrizMultiplication.csproj.CoreCompileInputs.cache
+/Users/dantealejo/Documents/GitHub/IntroSoftware_3rdPrtial/matrizMultiplication/obj/Debug/net8.0/matrizMultiplication.sourcelink.json
+/Users/dantealejo/Documents/GitHub/IntroSoftware_3rdPrtial/matrizMultiplication/obj/Debug/net8.0/matrizMultiplication.dll
+/Users/dantealejo/Documents/GitHub/IntroSoftware_3rdPrtial/matrizMultiplication/obj/Debug/net8.0/refint/matrizMultiplication.dll
+/Users/dantealejo/Documents/GitHub/IntroSoftware_3rdPrtial/matrizMultiplication/obj/Debug/net8.0/matrizMultiplication.pdb
+/Users/dantealejo/Documents/GitHub/IntroSoftware_3rdPrtial/matrizMultiplication/obj/Debug/net8.0/matrizMultiplication.genruntimeconfig.cache
+/Users/dantealejo/Documents/GitHub/IntroSoftware_3rdPrtial/matrizMultiplication/obj/Debug/net8.0/ref/matrizMultiplication.dll
